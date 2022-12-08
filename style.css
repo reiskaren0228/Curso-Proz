@@ -1,0 +1,88 @@
+*{
+    font-family: 'Marven Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #d3d3d3;
+    padding: 16px;
+    justify-content: space-between
+}
+
+nav {
+   background-color:;
+   padding-left: 16px;
+}
+
+ul {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+nav ul li {
+    padding-left: 16px;
+    list-style-type: none;
+}
+ 
+main {
+    background-color: #593493;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+div {
+    color: #ffff;
+    background: url(/img/bg_laranja.jpg);
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    padding: 10px;
+    padding: center;
+}
+
+section {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    justify-content: center;
+}
+
+h1 {
+    color: #ffff;
+    font-size: 40px;
+    width: 660px;
+    padding-top: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #ffff;
+    width: 660px;
+}
+ 
+h3 {
+font-size: 25px;
+color: #ffff;
+width: 80;
+justify-content: center;
+text-align: justify;
+padding: 10px;
+}
+
+p{
+    font-size: 12px;
+    padding-top: 10px;
+    text-align: justify;
+    padding-left: 10px;
+    width: 280px;
+    
+}
